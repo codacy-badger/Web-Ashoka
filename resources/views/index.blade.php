@@ -12,7 +12,7 @@
     <link href="//fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
     <link rel="stylesheet" href="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
-  <body style="background-color:#005B74 ">
+  <body   >
     @if (Route::has('login'))
       <div   style="display:none"class="top-right links">
         @auth
@@ -50,7 +50,7 @@
         <div class="col-sm-11 justify-content-end "  style="  display: flex; ">
           <ul class="nav justify-content-end " style="line-height: 180px;">
             <li class="nav-item ">
-              <a class="nav-link active" href="#">ASHOKA</a>
+              <a class="nav-link active" href="#"> ASHOKA</a>
             </li>
             <li class="nav-item ">
               <a class="nav-link" href="#">RED DE EMPRENDEDORES SOCIALES </a>

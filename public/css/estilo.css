@@ -56,7 +56,11 @@ li a{
 
 
 
-
+body{
+  background-image: url("/img/PNGs/fond.jpg");
+  background-repeat: no-repeat;
+background-size:  cover;
+}
 html, body {
 height: 100%;
 margin: 0;
