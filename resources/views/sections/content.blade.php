@@ -21,7 +21,42 @@
   <div class="row  subM" style="padding-left:18px;">
     <h2>DE CAMBIO</h2>
   </div>
+</div>
 
+<div class="container" style="margin-top:100px;margin-left:200px;">
+  <div class="row " style="width:100%;">
 
+<div class="col-sm-4  " style="width:33%;">
+
+  <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
+  <div class="card-header" style=" background-color:#cee0ff;">  <p class="cont2">POTENCIAMOS </p> </div>
+  <div class="card-body  "    style=" padding :0;" >
+  <img src="/img/PNGs/POTENCIAMOS.jpg" alt="" style="width:100%;height:200px;">
+  </div>
+    </div>
+
+</div>
+
+<div class="col-sm-4">
+
+  <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
+  <div class="card-header" style="background-color:#91b9ff;"> <p class="cont2">FOMENTAMOS </p> </div>
+  <div class="card-body"  style=" padding :0;">
+      <img src="/img/PNGs/FOMENTAMOS.jpg" alt="" style="width:100%;height:200px;">
+  </div>
+    </div>
+
+</div>
+<div class="col-sm-4 right">
+
+  <div class="card text-white bg-info mb-3 right" style="max-width: 18rem;">
+  <div class="card-header" style="background-color:#6ca0fc;" > <p class="cont2">PROMOVEMOS </p> </div>
+  <div class="card-body"  style=" padding :0;" >
+      <img src="/img/PNGs/PROMOVEMOS.jpg" alt="" style="width:100%;height:200px;">
+  </div>
+    </div>
+
+</div>
+</div>
 
 </div>
