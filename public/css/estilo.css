@@ -1,3 +1,5 @@
+
+
 .bordes{
   border-style: solid;
   border-width: 1px;
@@ -7,7 +9,7 @@
 
 }
 .dona{
-  font-size: 12px;
+  font-size: 10px;
   color: white;  margin:0 0 ;
   font-family: 'Montserrat', sans-serif;
 
@@ -17,9 +19,44 @@
 li a{
   font-family: 'Montserrat', Semi-bold;
   font-weight:  900;
-  font-size: 15px;
+  font-size: 14px;
   color: white;
 }
+.medio {color: white;
+  padding-right:8px;
+  font-size: 18px;
+    font-family: 'Montserrat',sans-serif;
+    font-style: normal;
+    font-weight: bolder;margin-bottom: 0;
+}
+
+
+.naranja{
+  color: #e8950b;margin-bottom: 0;
+}
+
+.subM{
+
+  color:white;
+
+  margin-bottom: 0;
+}
+
+.subM h2{
+
+  font-size: 48px;
+   font-family: 'Montserrat',sans-serif;
+  font-style: normal;
+  font-weight: bolder;
+  f
+
+
+}
+
+
+
+
+
 html, body {
 height: 100%;
 margin: 0;
@@ -27,5 +64,5 @@ padding: 0;
 }
 #container {
 min-height: 100%;
-heig\ht: 100%; /*Solo para IE6*/
-} 
+height: 100%; /*Solo para IE6*/
+}
