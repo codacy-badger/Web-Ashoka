@@ -42,13 +42,18 @@ li a{
   margin-bottom: 0;
 }
 
+.def{
+  font-size: 20px;
+   font-family: 'Montserrat',sans-serif;
+
+}
 .subM h2{
 
   font-size: 48px;
    font-family: 'Montserrat',sans-serif;
   font-style: normal;
   font-weight: bolder;
-  f
+
 
 
 }
@@ -64,7 +69,7 @@ li a{
   background-repeat: no-repeat;
 background-size:  cover;
 }
- 
+
 
 
 body{

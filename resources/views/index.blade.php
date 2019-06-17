@@ -7,6 +7,7 @@
   <!-- Fonts -->
     <link href="//fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/css/estilo.css">
+        <link rel="stylesheet" href="/css/montserrat.css">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link href='//fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>
     <link href="//fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
