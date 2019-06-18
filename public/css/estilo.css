@@ -47,6 +47,8 @@ li a{
    font-family: 'Montserrat',sans-serif;
 
 }
+.row{width: 100%;}
+
 .subM h2{
 
   font-size: 48px;
@@ -76,9 +78,13 @@ body{
   background-image: url("/img/PNGs/fond.jpg");
   background-repeat: no-repeat;
 background-size:  cover;
+
+
 }
 html, body {
+  min-height: 400px;
 height: 100%;
+min-width: 1020px;
 margin: 0;
 padding: 0;
 }

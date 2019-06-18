@@ -7,7 +7,7 @@
 
 
   <div class="conteiner"    >
-    <div class="row  ">
+    <div class="row  " >
       <div class="col-sm-4" style="  padding:0;">
      <img src="img/PNGs/SANCHEZCABEZAS.jpg" alt="" style="height:100% ; width:100%;" >
       </div>

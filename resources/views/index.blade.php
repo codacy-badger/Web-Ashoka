@@ -14,6 +14,8 @@
     <link rel="stylesheet" href="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
   <body   >
+ 
+
     @if (Route::has('login'))
       <div   style="display:none"class="top-right links">
         @auth
@@ -27,7 +29,7 @@
       </div>
     @endif
 
-    <div class="container " style="margin-right: 0";>
+    <div class="container " style="margin-right: 0;">
       <div class="row">
         <div class="col-sm-12">
           <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-5 ">
