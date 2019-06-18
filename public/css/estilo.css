@@ -16,9 +16,9 @@
 
 
 }
-li a{
+.menu{
   font-family: 'Montserrat', Semi-bold;
-  font-weight:  900;
+  font-weight:  bolder;
   font-size: 14px;
   color: white;
 }

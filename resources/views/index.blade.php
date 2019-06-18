@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
   <body   >
- 
+
 
     @if (Route::has('login'))
       <div   style="display:none"class="top-right links">
@@ -45,35 +45,150 @@
       </div>
     </div>
 
-    <div class=" container"  style="  width:100%; height:auto; margin: 0 auto;">
-      <div class="row">
-        <div class="col-sm-1">
-          <img  class="img-responsive"src='img/PNGs/ashoka_logo.png' style=" width: 110px;float:left;" ></span>
-        </div>
-        <div class="col-sm-11 justify-content-end "  style="  display: flex; ">
-          <ul class="nav justify-content-end " style="line-height: 180px;">
-            <li class="nav-item ">
-              <a class="nav-link active" href="#"> ASHOKA</a>
-            </li>
-            <li class="nav-item ">
-              <a class="nav-link" href="#">RED DE EMPRENDEDORES SOCIALES </a>
-            </li>
-            <li class="nav-item ">
-              <a class="nav-link" href="#">EDUCACION Y JUVENTUD</a>
-            </li>
-            <li class="nav-item ">
-              <a class="nav-link  " href="#">ALIANZAS</a>
-            </li>
-            <li class="nav-item ">
-              <a class="nav-link  " href="#">NOVEDADES</a>
-            </li>
-            <li class="nav-item ">
-              <a class="nav-link  " href="#">COLABORA</a>
-            </li>
-          </ul>
-        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+  <div class="row">
+
+
+  <div class="col-sm-1">
+    <img  class="img-responsive"src='img/PNGs/ashoka_logo.png' style=" width: 110px;float:left;" ></span>
+  </div>
+
+
+
+  <div class="col-sm-11  justify-content-end ">
+
+    <nav class="navbar navbar-expand-lg navbar-light   p-0"style="   position: absolute;
+   bottom:0px;"   >
+      <a class="navbar-brand" href="#"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+
+
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                       ASHOKA
+                      </a>
+                      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Action</a>
+                        <a class="dropdown-item" href="#">Another action</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Something else here</a>
+                      </div>
+                    </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              RED DE EMPRENDEDORES SOCIALES
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">Action</a>
+              <a class="dropdown-item" href="#">Another action</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Something else here</a>
+            </div>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              EDUCACION Y JUVENTUD
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">Action</a>
+              <a class="dropdown-item" href="#">Another action</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Something else here</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              ALIANZAS
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">Action</a>
+              <a class="dropdown-item" href="#">Another action</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Something else here</a>
+            </div>
+          </li>
+
+
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              NOVEDADES
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">Action</a>
+              <a class="dropdown-item" href="#">Another action</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Something else here</a>
+            </div>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle menu text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              COLABORA
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">Action</a>
+              <a class="dropdown-item" href="#">Another action</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Something else here</a>
+            </div>
+          </li>
+
+
+
+
+
+
+
+        </ul>
+
       </div>
-    </div>
+    </nav>
+  </div>
+
+
+  </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
        @include('sections.content')
        @include('sections.content2')
