@@ -9,7 +9,7 @@
 
 }
 .dona{
-  font-size: 10px;
+  font-size: 0.625rem;
   color: white;  margin:0 0 ;
   font-family: 'Montserrat', sans-serif;
 
@@ -19,12 +19,12 @@
 .menu{
   font-family: 'Montserrat', Semi-bold;
   font-weight:  bolder;
-  font-size: 14px;
+  font-size: 0.875rem;
   color: white;
 }
 .medio {color: white;
   padding-right:8px;
-  font-size: 18px;
+  font-size: 1.125rem;
     font-family: 'Montserrat',sans-serif;
     font-style: normal;
     font-weight: bolder;margin-bottom: 0;
@@ -43,7 +43,7 @@
 }
 
 .def{
-  font-size: 20px;
+  font-size: 1.25rem;
    font-family: 'Montserrat',sans-serif;
 
 }
@@ -51,7 +51,7 @@
 
 .subM h2{
 
-  font-size: 48px;
+  font-size: 3rem;
    font-family: 'Montserrat',sans-serif;
   font-style: normal;
   font-weight: bolder;
@@ -62,7 +62,7 @@
 
 .cont2{
   color: #003b9b;
-  font-size: 20px;
+  font-size: 1.25rem;
    font-family: 'Montserrat',sans-serif;
   font-style: normal;
   font-weight: bolder;
@@ -84,7 +84,7 @@ background-size:  cover;
 html, body {
   min-height: 400px;
 height: 100%;
-min-width: 1020px;
+
 margin: 0;
 padding: 0;
 }

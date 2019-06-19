@@ -64,7 +64,7 @@
 
 
 
-<div class="container">
+<div class="container ">
   <div class="row">
 
 
@@ -76,15 +76,19 @@
 
   <div class="col-sm-11  justify-content-end ">
 
-    <nav class="navbar navbar-expand-lg navbar-light   p-0"style="   position: absolute;
-   bottom:0px;"   >
+    <nav class="navbar navbar-expand-lg navbar-light   p-0"style="   position: absolute;right:0;bottom:0;
+   "   >
       <a class="navbar-brand" href="#"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
+
+
+        <ul class="navbar-nav mr-auto  " style="   position: absolute;right:0;"  >
+
+
 
 
                     <li class="nav-item dropdown">
@@ -100,9 +104,15 @@
                     </li>
 
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class=" d-none   d-md-none  d-xl-block   nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               RED DE EMPRENDEDORES SOCIALES
             </a>
+
+            <a class="   d-block  d-sm-block  d-md-block  d-lg-block d-xl-none  nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                RED
+            </a>
+
+
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="#">Action</a>
               <a class="dropdown-item" href="#">Another action</a>
@@ -111,10 +121,17 @@
             </div>
           </li>
 
+
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class=" d-none   d-md-none  d-xl-block   nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               EDUCACION Y JUVENTUD
             </a>
+
+            <a class="   d-block  d-sm-block  d-md-block  d-lg-block d-xl-none  nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                EDUCACION
+            </a>
+
+
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="#">Action</a>
               <a class="dropdown-item" href="#">Another action</a>
@@ -122,6 +139,14 @@
               <a class="dropdown-item" href="#">Something else here</a>
             </div>
           </li>
+
+
+
+
+
+
+
+
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               ALIANZAS

@@ -8,10 +8,10 @@
 
   <div class="conteiner"    >
     <div class="row  " >
-      <div class="col-sm-4" style="  padding:0;">
+      <div class="col-sm-4 d-none    d-xl-block d-lg-block  d-xl-none" style="  padding:0;">
      <img src="img/PNGs/SANCHEZCABEZAS.jpg" alt="" style="height:100% ; width:100%;" >
       </div>
-      <div class="col-sm-8 p-5" style="background-color:#ffae1a; ">
+      <div class="col-sm-12 col-md-12 col-lg-8 p-5" style="background-color:#ffae1a; ">
          <p class="text-light  m-0   def "> "<strong>Ashoka</strong> esta justo donde debe estar,</p>
           <p class="text-light  m-0   def  extrabold " >   nos ofrece andamiaje,un espacio para encontrar</p>
           <p class="text-light  m-0  def ">      pares e intercambiar experiencias,oportunidades</p>
