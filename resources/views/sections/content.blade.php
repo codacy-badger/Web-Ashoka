@@ -5,7 +5,7 @@
     <div class="col-sm-10  pl-5  mt-3"  style="height:100px;">
   <div class="row ">
 
-   <p class=" medio"   >Creemos que todas <p class="naranja medio "> las personas</p>
+   <p class=" medio  "   >Creemos que todas <p class="naranja medio "> las personas</p>
     <p class="medio "> tienen la capacidad para</p><p class="naranja medio "> mejorar su entorno</p>
 </div>
 <div class="row ">
