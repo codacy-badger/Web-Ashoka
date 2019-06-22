@@ -67,7 +67,6 @@
                    <a class="nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                        ASHOKA
                    </a>
-                  <a class=" d-none   d-md-none  d-xl-block   nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                      <a class="dropdown-item" href="#">Sobre Ashoka</a>
                      <a class="dropdown-item" href="#">Historia</a>
