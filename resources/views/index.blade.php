@@ -1,27 +1,23 @@
 <!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Ashoka</title>
   <!-- Fonts -->
     <link href="//fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/css/estilo.css">
-<link rel="shortcut icon" href="img/PNGs/fav.png" type="image/png">
-
-
-        <link rel="stylesheet" href="/css/montserrat.css">
+    <link rel="stylesheet" href="/css/montserrat.css">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link href='//fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>
     <link href="//fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
+  <!--Logito -->
+    <link rel="shortcut icon" href="img/PNGs/fav.png" type="image/png">
+  <!--CSS -->
+    <link rel="stylesheet" href="/css/estilo.css">
     <link rel="stylesheet" href="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
-  <body     style="">
-
-
-
-
-
+  <body>
     @if (Route::has('login'))
       <div   style="display:none"class="top-right links">
         @auth
@@ -39,7 +35,7 @@
       <div class="row">
         <div class="col-sm-12">
           <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-5 ">
-            <ul class="list-unstyled list-inline social text-right" style="margin: 0; margin-right:100px">
+            <ul class="list-unstyled list-inline social text-right mr-5" style="margin: 0;  ">
               <li class="list-inline-item"><a  style="text-decoration:none" href="javascript:void();"><div class="bordes"> <p  class="dona">Doná</p></div> </a></li>
               <li class="list-inline-item"><a href="javascript:void();"> <img src="img/PNGs/Twitter.png"  width="25"alt="twitter"></a></li>
               <li class="list-inline-item"><a href="javascript:void();"> <img src="img/PNGs/Google Plus.png"  width="25"alt="Flowers in Chania"></a></li>
@@ -54,63 +50,33 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="container ">
-  <div class="row">
-
-
-  <div class="col-sm-1">
-    <img  class="img-responsive"src='img/PNGs/ashoka_logo.png' style=" width: 110px;float:left;" ></span>
-  </div>
-
-
-
-  <div class="col-sm-11  justify-content-end ">
-
-    <nav class="navbar navbar-expand-lg navbar-light   p-0"style="   position: absolute;right:0;bottom:0;
-   "   >
-      <a class="navbar-brand" href="#"></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
-
-        <ul class="navbar-nav mr-auto  " style="   position: absolute;right:0;"  >
-
-
-
-
-                    <li class="nav-item dropdown">
-                      <a class="nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <div class="container ">
+      <div class="row">
+        <div class="col-sm-1">
+          <img  class="img-responsive"src='img/PNGs/ashoka_logo.png' style=" width: 110px;float:left;" ></span>
+        </div>
+        <div class="col-sm-11  justify-content-end ">
+          <nav class="navbar navbar-expand-lg navbar-light   p-0"style="   position: absolute;right:0;bottom:0;"   >
+            <a class="navbar-brand" href="#"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+             <div class="collapse navbar-collapse" id="navbarSupportedContent">
+               <ul class="navbar-nav mr-auto  " style="   position: absolute;right:0;"  >
+                 <li class="nav-item dropdown">
+                   <a class="nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                        ASHOKA
-                      </a>
-                      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">Action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Something else here</a>
-                      </div>
-                    </li>
+                   </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="#">Action</a>
+                    <a class="dropdown-item" href="#">Another action</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                  </div>
+                </li>
 
-          <li class="nav-item dropdown">
-            <a class=" d-none   d-md-none  d-xl-block   nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <li class="nav-item dropdown">
+                  <a class=" d-none   d-md-none  d-xl-block   nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               RED DE EMPRENDEDORES SOCIALES
             </a>
 
@@ -145,11 +111,6 @@
               <a class="dropdown-item" href="#">Something else here</a>
             </div>
           </li>
-
-
-
-
-
 
 
 

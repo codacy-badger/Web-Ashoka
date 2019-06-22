@@ -1,6 +1,6 @@
-<div class="conteiner mt-5"  style="height:430px ;min-width: 370px;overflow:hidden"; >
-  <div class="row"   >
-    <img src="img/PNGs/jovenes.jpg" alt="" style="min-width:370px;width:100%;" >
+<div class="conteiner mt-5 h-75"  style=" min-width: 370px;overflow:hidden"; >
+  <div class="row h-100 w-100"   >
+    <img src="img/PNGs/jovenes.jpg" alt="" style=" " >
   </div>
   </div>
 
