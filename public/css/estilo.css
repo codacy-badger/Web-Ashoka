@@ -1,5 +1,12 @@
 
+.semiTit{
+  font-size: 3rem;
+   font-family: 'Montserrat',sans-serif;
+  font-style: normal;
+  font-weight: bolder;
+  color: rgba(0, 0, 0, 0.62);
 
+}
 .bordes{
   border-style: solid;
   border-width: 1px;
