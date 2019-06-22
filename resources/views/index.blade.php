@@ -62,55 +62,47 @@
               <span class="navbar-toggler-icon"></span>
             </button>
              <div class="collapse navbar-collapse" id="navbarSupportedContent">
-               <ul class="navbar-nav mr-auto  " style="   position: absolute;right:0;"  >
+               <ul class="navbar-nav mr-auto fondoNav " style="   position: absolute;right:0;"  >
                  <li class="nav-item dropdown">
                    <a class="nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                        ASHOKA
                    </a>
-                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">Action</a>
-                    <a class="dropdown-item" href="#">Another action</a>
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Something else here</a>
-                  </div>
-                </li>
-
-                <li class="nav-item dropdown">
                   <a class=" d-none   d-md-none  d-xl-block   nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              RED DE EMPRENDEDORES SOCIALES
-            </a>
-
-            <a class="   d-block  d-sm-block  d-md-block  d-lg-block d-xl-none  nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                RED
-            </a>
-
-
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Action</a>
-              <a class="dropdown-item" href="#">Another action</a>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#">Something else here</a>
-            </div>
-          </li>
-
-
-          <li class="nav-item dropdown">
-            <a class=" d-none   d-md-none  d-xl-block   nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              EDUCACION Y JUVENTUD
-            </a>
-
-            <a class="   d-block  d-sm-block  d-md-block  d-lg-block d-xl-none  nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                EDUCACION
-            </a>
+                   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                     <a class="dropdown-item" href="#">Sobre Ashoka</a>
+                     <a class="dropdown-item" href="#">Historia</a>
+                     <a class="dropdown-item" href="#">Equipo</a>
+                     <a class="dropdown-item" href="#">Impacto</a>
+                   </div>
+                 </li>
+                 <li class="nav-item dropdown">
+                   <a class=" d-none   d-md-none  d-xl-block   nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    RED DE EMPRENDEDORES SOCIALES
+                   </a>
+                   <a class="   d-block  d-sm-block  d-md-block  d-lg-block d-xl-none  nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    RED
+                   </a>
+                   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="#">Conoce la red</a>
+                    <a class="dropdown-item" href="#">Emprendedores Sociales</a>
+                    <a class="dropdown-item" href="#">Nominación</a>
+                    <a class="dropdown-item" href="#">Comite Nominador</a>
 
 
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Action</a>
-              <a class="dropdown-item" href="#">Another action</a>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#">Something else here</a>
-            </div>
-          </li>
+                  </div>
+                 </li>
+                 <li class="nav-item dropdown">
+                   <a class=" d-none   d-md-none  d-xl-block   nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                     EDUCACION Y JUVENTUD
+                   </a>
+                   <a class="   d-block  d-sm-block  d-md-block  d-lg-block d-xl-none  nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    EDUCACION
+                   </a>
+                   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                     <a class="dropdown-item" href="#">Que es ?</a>
+                     <a class="dropdown-item" href="#">Iniciativas</a>
+                   </div>
+                 </li>
 
 
 
@@ -119,44 +111,33 @@
               ALIANZAS
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Action</a>
-              <a class="dropdown-item" href="#">Another action</a>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#">Something else here</a>
+              <a class="dropdown-item" href="#">Red de apoyo(asn)</a>
+              <a class="dropdown-item" href="#">Red de empresas</a>
+              <a class="dropdown-item" href="#">Colaboradores</a>
             </div>
           </li>
 
-
-
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+           <li class="nav-item dropdown">
+             <a class="nav-link dropdown-toggle menu  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               NOVEDADES
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Action</a>
-              <a class="dropdown-item" href="#">Another action</a>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#">Something else here</a>
-            </div>
-          </li>
+             </a>
+             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+               <a class="dropdown-item" href="#">Noticias</a>
+               <a class="dropdown-item" href="#">Oportunidades</a>
+               <a class="dropdown-item" href="#">Prensa</a>
+             </div>
+           </li>
 
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle menu text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              COLABORA
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Action</a>
-              <a class="dropdown-item" href="#">Another action</a>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#">Something else here</a>
-            </div>
-          </li>
-
-
-
-
-
-
+           <li class="nav-item dropdown">
+             <a class="nav-link dropdown-toggle menu text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                COLABORA
+             </a>
+             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+               <a class="dropdown-item" href="#">Dona</a>
+               <a class="dropdown-item" href="#">Hazte socio</a>
+               <a class="dropdown-item" href="#">Quieres ser voluntario? </a>
+             </div>
+           </li>
 
         </ul>
 
@@ -169,23 +150,14 @@
   </div>
 
 
+     @include('sections.content')
 
+      @include('sections.content2')
 
+      @include('sections.content3')
 
-
-
-
-
-
-
-
-
-
-
-       @include('sections.content')
-       @include('sections.content2')
-       @include('sections.content3')
-              @include('sections.footer')
+      @include('sections.footer')
+      <!-- SCRIPTS  -->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
