@@ -71,7 +71,7 @@
         margin-right: auto;
         display: block;">
         <div class="overlay">
-           <h2 class="semiTit pt-5">Emprendedores sociales</h2>
+           <h2 class="semiTit pt-5">EMPRENDEDORES SOCIALES</h2>
            <div class=" px-4 ">
 
 
@@ -80,7 +80,69 @@
            <p  class="text-left blu m-0">prosperar en sus inovaciones</p>
          </div>
         <div class=" w-50 pl-3 py-4 " >
-          <p class="  botonsito position-absolute "  style="bottom:0"><a href="#">Emprendedores Sociales</a></p>
+          <p class="  botonsito position-absolute "  style="bottom:0"><a href="#" class="text-decoration-none text-light">EMPRENDEDORES SOCIALES</a></p>
+        </div>
+        </div>
+
+
+      </div>
+        </div>
+
+    </div>
+
+
+
+
+
+
+    <div class=" col-12 col-sm-12   col-md-10 col-lg-4   mt-5    " style="width:33%; height:340px ;">
+
+      <div class="  card text-white bg-info mb-0" style="  margin-left:10%;height:100%; width:90%">
+      <div class="card-header" style=" text-align:center; background-color:#cee0ff;">  <p class="cont2">FOMENTAMOS </p> </div>
+      <div class="card-body hovereffect "    style=" padding :0 ;overflow:   hidden" >
+      <img src="/img/PNGs/FOMENTAMOS.jpg" alt="" style="width:100%;height: 100%; margin-left: auto;
+        margin-right: auto;
+        display: block;">
+        <div class="overlay">
+           <h2 class="semiTit pt-5">EL DESARROLLO DE HABILIDADES</h2>
+           <div class=" px-4 ">
+
+
+           <p class="text-left blu m-0">para que los niños y jovenes pongan </p>
+           <p  class="text-left blu m-0" >en practica la empatia y sean motor</p>
+           <p  class="text-left blu m-0">de cambio social.</p>
+         </div>
+        <div class=" w-50 pl-3 py-4 " >
+          <p class="  botonsito position-absolute "  style="bottom:0"><a href="#" class="text-decoration-none text-light">NIÑOS Y JOVENES</a></p>
+        </div>
+        </div>
+
+
+      </div>
+        </div>
+
+    </div>
+
+
+    <div class=" col-12 col-sm-12   col-md-10 col-lg-4   mt-5    " style="width:33%; height:340px ;">
+
+      <div class="  card text-white bg-info mb-0" style="  margin-left:10%;height:100%; width:90%">
+      <div class="card-header" style=" text-align:center; background-color:#cee0ff;">  <p class="cont2">PROMOVEMOS </p> </div>
+      <div class="card-body hovereffect "    style=" padding :0 ;overflow:   hidden" >
+      <img src="/img/PNGs/PROMOVEMOS.jpg" alt="" style="width:100%;height: 100%; margin-left: auto;
+        margin-right: auto;
+        display: block;">
+        <div class="overlay">
+           <h2 class="semiTit pt-5">UNA ECONOMIA AL SERVICIO DEL BIEN COMUN</h2>
+           <div class=" px-4 ">
+
+
+           <p class="text-left blu m-0">que construya valor compartido </p>
+           <p  class="text-left blu m-0" >a traves de la articulacion de individuos con</p>
+           <p  class="text-left blu m-0">organizaciones y empresas.</p>
+         </div>
+        <div class=" w-50 pl-3 py-4 " >
+          <p class="  botonsito position-absolute "  style="bottom:0"><a href="#" class="text-decoration-none text-light">NUEVAS ECONOMIAS</a></p>
         </div>
         </div>
 
@@ -100,27 +162,6 @@
 
 
 
-
-<div class="col-12  col-sm-12  col-md-10 col-lg-4   mt-5" style="width:33%; height:340px;">
-
-  <div class="card text-white bg-info mb-0" style="margin-left:10%; height:100%; width:90%">
-  <div class="card-header" style="text-align:center;padding: 17px 0;background-color:#91b9ff;"> <p class="cont2">FOMENTAMOS </p> </div>
-  <div class="card-body"  style=" padding :0; overflow:   hidden">
-      <img src="/img/PNGs/FOMENTAMOS.jpg" alt="" style="width:100%;height:100%;">
-  </div>
-    </div>
-
-</div>
-<div class="col-12  col-sm-12 col-md-10 col-lg-4    mt-5" style="width:33%; height:340px;  right">
-
-  <div class="card text-white bg-info mb-0 right" style="margin-left:10%;height:100%; width:90%;">
-  <div class="card-header" style="text-align:center;padding: 17px 0;background-color:#6ca0fc;" > <p class="cont2">PROMOVEMOS </p> </div>
-  <div class="card-body"  style=" padding :0; overflow:   hidden" >
-      <img src="/img/PNGs/PROMOVEMOS.jpg" alt="" style="width:100%;height:100%;">
-  </div>
-    </div>
-
-</div>
 </div>
 
 </div>
