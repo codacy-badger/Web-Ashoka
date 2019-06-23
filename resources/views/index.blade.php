@@ -48,11 +48,11 @@
         <div class="col-sm-12">
           <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-5 ">
             <ul class="list-unstyled list-inline social text-right mr-5" style="margin: 0;  ">
-              <li class="list-inline-item"><a  style="text-decoration:none" href="javascript:void();"><div class="bordes"> <p  class="dona">Doná</p></div> </a></li>
+              <li class="list-inline-item"><a  style="text-decoration:none" href="javascript:void();"> <img class="bordes" src="img/PNGs/dona.png"  width="25%"alt="twitter"></a></li>
               <li class="list-inline-item"><a href="javascript:void();"> <img src="img/PNGs/Twitter.png"  width="25"alt="twitter"></a></li>
-              <li class="list-inline-item"><a href="javascript:void();"> <img src="img/PNGs/Google Plus.png"  width="25"alt="Flowers in Chania"></a></li>
-              <li class="list-inline-item"><a href="javascript:void();"> <img src="img/PNGs/Facebook.png"  width="25"alt="Flowers in Chania"></a></li>
-              <li class="list-inline-item"><a href="javascript:void();"> <img src="img/PNGs/Instagram.png"  width="25"alt="Flowers in Chania"></a></li>
+              <li class="list-inline-item"><a href="javascript:void();"> <img src="img/PNGs/Google Plus.png"  width="25"alt="GooglePlus"></a></li>
+              <li class="list-inline-item"><a href="javascript:void();"> <img src="img/PNGs/Facebook.png"  width="25"alt="Facebook"></a></li>
+              <li class="list-inline-item"><a href="javascript:void();"> <img src="img/PNGs/Instagram.png"  width="25"alt="Instagram"></a></li>
             </ul>
           </div>
         </div>
