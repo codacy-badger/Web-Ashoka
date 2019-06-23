@@ -1,4 +1,6 @@
-
+a{
+  text-decoration: 0;
+}
 .semiTit{
   font-size: 3rem;
    font-family: 'Montserrat',sans-serif;
@@ -17,6 +19,30 @@ footer .semiTit{
 
 
 }
+
+.overlay .semiTit{
+  font-size: 1.1rem;
+    color: #002e78;
+   font-family: 'Montserrat',sans-serif;
+  font-style: normal;
+  font-weight: bolder;
+
+
+}
+
+
+.botonsito{
+  font-size: 0.8rem;
+    color: white;
+   font-family: 'Montserrat',sans-serif;
+  font-style: normal;
+  font-weight: bolder;
+  background-color:#002e78;
+
+
+}
+
+
 
 
 

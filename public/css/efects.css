@@ -16,7 +16,7 @@ overflow:hidden;
 top:0;
 left:0;
 opacity:0;
-background-color:rgba(0,0,0,0.5);
+background-color:rgba(255, 255, 255, 0.5);
 -webkit-transition:all .4s ease-in-out;
 transition:all .4s ease-in-out
 }
@@ -34,7 +34,7 @@ color:#fff;
 text-align:center;
 position:relative;
 font-size:17px;
-background:rgba(0,0,0,0.6);
+
 -webkit-transform:translatey(-100px);
 -ms-transform:translatey(-100px);
 transform:translatey(-100px);
@@ -84,4 +84,16 @@ transform:translatey(0);
 .hovereffect:hover a.info {
 -webkit-transition-delay:.2s;
 transition-delay:.2s;
+}
+
+
+
+.blu {
+  color: #002e78;
+  font-size: 1rem;
+   font-family: 'Montserrat',sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  z-index: 2;
+
 }

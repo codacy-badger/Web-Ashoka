@@ -71,8 +71,17 @@
         margin-right: auto;
         display: block;">
         <div class="overlay">
-           <h2>Hover effect 1</h2>
-           <a class="info" href="#">link here</a>
+           <h2 class="semiTit pt-5">Emprendedores sociales</h2>
+           <div class=" px-4 ">
+
+
+           <p class="text-left blu m-0">activando redes que les </p>
+           <p  class="text-left blu m-0" >permitan acceder a recursos y</p>
+           <p  class="text-left blu m-0">prosperar en sus inovaciones</p>
+         </div>
+        <div class=" w-50 pl-3 py-4 " >
+          <p class="  botonsito position-absolute "  style="bottom:0"><a href="#">Emprendedores Sociales</a></p>
+        </div>
         </div>
 
 
