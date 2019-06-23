@@ -15,6 +15,7 @@
     <link rel="shortcut icon" href="img/PNGs/fav.png" type="image/png">
   <!--CSS -->
     <link rel="stylesheet" href="/css/estilo.css">
+    <link rel="stylesheet" href="/css/efects.css">
     <link rel="stylesheet" href="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
   <body>
@@ -33,6 +34,16 @@
 
     <div class="container " style="margin-right: 0;">
       <div class="row">
+
+
+          <div class="   d-none  d-xl-block  d-xl-none" style="height:0px;">
+            <img src="img/PNGs/map.png" class="mr-0 w-75 " style=" float:right; height: auto;" alt="">
+              </div>
+
+
+
+
+
         <div class="col-sm-12">
           <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-5 ">
             <ul class="list-unstyled list-inline social text-right mr-5" style="margin: 0;  ">

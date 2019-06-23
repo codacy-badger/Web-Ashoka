@@ -16,9 +16,7 @@
 
   </div>
 
-  <div class="col-sm-2   d-none  d-xl-block  d-xl-none" style="height:100px;">
-    <img src="img/PNGs/ubicacion.png" style="float:right;width:300px" alt="">
-      </div>
+
 
 
     </div>
@@ -64,22 +62,29 @@
 <div class="container mt-5 " style=" display: flex;  ">
   <div class="row " style="width:100%;">
 
+    <div class=" col-12 col-sm-12   col-md-10 col-lg-4   mt-5    " style="width:33%; height:340px ;">
+
+      <div class="  card text-white bg-info mb-0" style="  margin-left:10%;height:100%; width:90%">
+      <div class="card-header" style=" text-align:center; background-color:#cee0ff;">  <p class="cont2">POTENCIAMOS </p> </div>
+      <div class="card-body hovereffect "    style=" padding :0 ;overflow:   hidden" >
+      <img src="/img/PNGs/POTENCIAMOS.jpg" alt="" style="width:100%;height: 100%; margin-left: auto;
+        margin-right: auto;
+        display: block;">
+        <div class="overlay">
+           <h2>Hover effect 1</h2>
+           <a class="info" href="#">link here</a>
+        </div>
 
 
+      </div>
+        </div>
 
-
-<div class=" col-12 col-sm-12   col-md-10 col-lg-4   mt-5    " style="width:33%; height:340px ;">
-
-  <div class="card text-white bg-info mb-0" style="  margin-left:10%;height:100%; width:90%">
-  <div class="card-header" style=" text-align:center; background-color:#cee0ff;">  <p class="cont2">POTENCIAMOS </p> </div>
-  <div class="card-body  "    style=" padding :0 ;overflow:   hidden" >
-  <img src="/img/PNGs/POTENCIAMOS.jpg" alt="" style="width:100%;height: 100%; margin-left: auto;
-    margin-right: auto;
-    display: block;">
-  </div>
     </div>
 
-</div>
+
+
+
+
 
 
 
